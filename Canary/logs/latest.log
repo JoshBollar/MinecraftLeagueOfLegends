@@ -1,0 +1,59 @@
+[17:00:49] [CanaryMod] [INFO]: Starting: CanaryMod 1.8.0-1.2.0
+[17:00:49] [CanaryMod] [INFO]: Canary Path: /Users/ssbollar/Desktop/Canary/CanaryMod-1.2.0.jar & Working From: /Users/ssbollar/Desktop/Canary
+[17:00:49] [CanaryMod] [INFO]: Registered xml Database
+[17:00:49] [CanaryMod] [INFO]: Found 1 plugins; total: 1
+[17:00:52] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting minecraft server version 1.8
+[17:00:52] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Loading properties
+[17:00:52] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Generating keypair
+[17:00:52] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting Minecraft server on *:25565
+[17:00:52] [CanaryMod] [INFO]: Enabling early Plugins...
+[17:00:53] [CanaryMod] [INFO]: Enabling late Plugins...
+[17:00:53] [CanaryMod] [INFO]: Enabling plugin ScriptCraft
+[17:00:57] [ScriptCraft] [WARN]: alias plugin is not yet supported in CanaryMod
+[17:00:58] [ScriptCraft] [WARN]: commando-test not yet supported in CanaryMod
+[17:00:58] [ScriptCraft] [WARN]: commando plugin is not yet supported in CanaryMod
+[17:00:59] [ScriptCraft] [WARN]: cow-clicker minigame is not yet supported in CanaryMod and Craftbukkit
+[17:00:59] [net.minecraft.server.MinecraftServer] [INFO]: Preparing start region for level default_NORMAL (0)
+[17:01:00] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 6%
+[17:01:01] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 7%
+[17:01:03] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 8%
+[17:01:04] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 9%
+[17:01:05] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 9%
+[17:01:06] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 10%
+[17:01:07] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 12%
+[17:01:08] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 14%
+[17:01:09] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 16%
+[17:01:10] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 18%
+[17:01:11] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 20%
+[17:01:12] [CanaryMod] [INFO] [NOTICE]: {Dublwatr} is already an operator
+[17:01:12] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 22%
+[17:01:13] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 25%
+[17:01:14] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 27%
+[17:01:15] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 32%
+[17:01:16] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 37%
+[17:01:17] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 41%
+[17:01:17] [CanaryMod] [INFO] [MESSAGE]: "2"
+[17:01:18] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 50%
+[17:01:19] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 58%
+[17:01:20] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 67%
+[17:01:22] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 80%
+[17:01:23] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 82%
+[17:01:24] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 83%
+[17:01:25] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 84%
+[17:01:26] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 86%
+[17:01:27] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 87%
+[17:01:28] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 89%
+[17:01:29] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 90%
+[17:01:30] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 92%
+[17:01:31] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 93%
+[17:01:32] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 95%
+[17:01:33] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 96%
+[17:01:35] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 98%
+[17:01:36] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Done (43.269s)! For help, type "help" or "?"
+[17:01:37] [ScriptCraft] [INFO]: js-patch setTimeout() test complete
+[17:01:41] [net.minecraft.server.MinecraftServer] [INFO]: Stopping server
+[17:01:41] [net.minecraft.server.MinecraftServer] [INFO]: Saving players
+[17:01:41] [net.minecraft.server.MinecraftServer] [INFO]: Saving worlds
+[17:01:41] [net.minecraft.server.MinecraftServer] [INFO]: Saving chunks for level 'default'/Overworld
+[17:01:42] [CanaryMod] [INFO]: Disabling Plugins ...
+[17:01:42] [CanaryMod] [INFO]: Disabling plugin ScriptCraft
